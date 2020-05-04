@@ -25,6 +25,9 @@ body {
 #jugador-cartas {
     height: 220px;
 }
+.row{
+    margin-right: 0;
+}
 
 #divBotones{
     width: 100vh;
