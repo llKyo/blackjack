@@ -3,6 +3,7 @@ body {
     margin: 0px;
     background-color: #2F4F30;
     color: white;
+    height: 100vh;
 }
 
 .titulo {
@@ -23,4 +24,8 @@ body {
 #Computadora-cartas,
 #jugador-cartas {
     height: 220px;
+}
+
+#divBotones{
+    width: 100vh;
 }
